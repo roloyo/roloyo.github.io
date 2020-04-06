@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://roloyo.github.io</id>
-    <title>roloyo的个人网站</title>
-    <updated>2020-04-06T17:53:29.879Z</updated>
+    <title>roloyo的博客</title>
+    <updated>2020-04-06T18:01:16.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://roloyo.github.io"/>
     <link rel="self" href="https://roloyo.github.io/atom.xml"/>
-    <subtitle>柠檬</subtitle>
+    <subtitle>一颗柠檬精的收藏</subtitle>
     <logo>https://roloyo.github.io/images/avatar.png</logo>
     <icon>https://roloyo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, roloyo的个人网站</rights>
-    <entry>
-        <title type="html"><![CDATA[Chrome浏览器插件]]></title>
-        <id>https://roloyo.github.io/post/chrome-liu-lan-qi-cha-jian/</id>
-        <link href="https://roloyo.github.io/post/chrome-liu-lan-qi-cha-jian/">
-        </link>
-        <updated>2020-04-06T17:44:42.000Z</updated>
-        <content type="html"><![CDATA[<p>哈哈哈</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2020, roloyo的博客</rights>
     <entry>
         <title type="html"><![CDATA[资源小站]]></title>
         <id>https://roloyo.github.io/post/hello-gridea/</id>
